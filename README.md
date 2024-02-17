@@ -9,6 +9,9 @@
 ### Навыки: 
 JavaScript, HTML, CSS, Адаптивная верстка, React, Node.js, MongoDB, Git, ООП, Webpack
 
+### Мое резюме
+https://spb.hh.ru/resume/3f64f264ff09d694f10039ed1f547a49566e32
+
 ### Контакты:
 + m.galamdinova@yandex.ru
 + https://vk.com/galamdinova_m
